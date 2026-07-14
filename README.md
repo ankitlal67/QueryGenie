@@ -1,0 +1,2 @@
+# QueryGenie
+LLM Project
